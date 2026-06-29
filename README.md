@@ -30,7 +30,7 @@ The predictions are displayed through an interactive Streamlit web application, 
 ---
 
 ## 📂 Project Structure  
-
+```
 Spam_Email Classifier/
 
 ├── app.py
@@ -45,7 +45,7 @@ Spam_Email Classifier/
 ├── auth/
 ├── gmail/
 ├── ui/
----
+```
 
 ## 🧪 How It Works  
 - Email text is cleaned (NLP preprocessing)  
