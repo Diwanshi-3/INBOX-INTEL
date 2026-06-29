@@ -82,13 +82,14 @@ streamlit run app.py
 - Clean and interactive Streamlit UI
 - Pre-trained Machine Learning model
 - Secure Gmail integration using OAuth 2.0 and Gmail API
+---
 
 ## 👩‍💻 Author
 
 - Diwanshi  
 - BTech CSE Student  
 - Machine Learning Enthusiast 🚀  
-
+---
 
 ## ⭐ Future Enhancements
 
@@ -101,8 +102,9 @@ streamlit run app.py
 - Cloud deployment (Streamlit, AWS, Azure, GCP)
 - Mobile application development
 - Explainable AI (show why email is marked spam)
-
+---
 
 ## 📜 License
 This project is developed for academic and learning purposes.
 It is open-source and free to use with proper credit.
+---
