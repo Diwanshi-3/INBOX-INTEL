@@ -30,18 +30,19 @@ The predictions are displayed through an interactive Streamlit web application, 
 ---
 
 ## 📂 Project Structure  
-Spam_Email Classifier/
 
-├── app.py  
-├── model.pkl  
-├── vectorizer.pkl  
-├── dataset/  
-├── ml/  
-├── auth/  
-├── ui/  
-├── gmail/  
-├── project.ipynb  
-├── README.md  
+Spam_Email Classifier/
+├── app.py
+├── model.pkl
+├── vectorizer.pkl
+├── dataset/
+├── ml/
+├── auth/
+├── ui/
+├── gmail/
+├── project.ipynb
+├── README.md
+├── requirements.txt 
 
 ---
 
