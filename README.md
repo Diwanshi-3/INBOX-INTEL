@@ -16,15 +16,16 @@ The predictions are displayed through an interactive Streamlit web application, 
 ---
 
 ## ⚙️ Tech Stack
-Python 🐍
-Scikit-learn 🤖
-Pandas
-NumPy
-NLP (TF-IDF Vectorizer)
-Streamlit (UI)
-Pickle (Model Saving)
-Google OAuth 2.0
-Gmail API
+
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- NLP (TF-IDF Vectorizer)
+- Streamlit (UI)
+- Pickle (Model Saving)
+- Google OAuth 2.0
+- Gmail API
 
 ---
 
@@ -72,24 +73,32 @@ streamlit run app.py
 ```
 
 ## 📌 Features
-Spam detection in real-time
-NLP-based text processing
-Clean Streamlit UI
-Pre-trained Machine Learning model
-Secure Gmail integration using OAuth 2.0 and Gmail API
 
-## 👩‍💻 Author  
-Diwanshi  
-BTech CSE Student  
-Machine Learning Enthusiast 🚀  
+- Spam detection in real-time
+- NLP-based text processing
+- TF-IDF based feature extraction
+- Clean and interactive Streamlit UI
+- Pre-trained Machine Learning model
+- Secure Gmail integration using OAuth 2.0 and Gmail API
+
+## 👩‍💻 Author
+
+- Diwanshi  
+- BTech CSE Student  
+- Machine Learning Enthusiast 🚀  
 
 
-## ⭐ Future Improvements
-Deep Learning models (LSTM / BERT / Transformers)
-Better dataset expansion
-Gmail API automation enhancements
-Cloud deployment (Streamlit / AWS / Azure / GCP)
-Advanced phishing & malware detection  
+## ⭐ Future Enhancements
+
+- Deep Learning models (LSTM, BERT, Transformers)
+- Better dataset expansion for higher accuracy
+- Gmail API automation improvements
+- Real-time continuous email monitoring
+- Phishing and scam URL detection
+- Email categorization (Promotions, Social, Updates, Spam)
+- Cloud deployment (Streamlit, AWS, Azure, GCP)
+- Mobile application development
+- Explainable AI (show why email is marked spam)
 
 
 ## 📜 License
