@@ -3,22 +3,28 @@ AI-Powered Gmail Spam Detection using Machine Learning and Python
 
 ---
 
-## 🧠 Project Overview  
-This project uses Machine Learning + NLP to classify emails as:
+## 🧠 Project Overview
 
-- ✅ Ham (Normal Email)  
-- 🚫 Spam (Unwanted / Scam Email)
+This project, Inbox Intel: Spam Email Classifier, is an AI-powered system designed to automatically detect and classify emails as Spam or Ham (Legitimate Email) using Machine Learning and Natural Language Processing (NLP) techniques.
+
+With the increasing number of unwanted and malicious emails such as phishing links, scams, and advertisements, manual filtering becomes inefficient and unreliable. To solve this problem, the system applies NLP-based text preprocessing and converts email content into numerical features using TF-IDF Vectorization.
+
+A trained Multinomial Naive Bayes machine learning model is then used to classify emails with high accuracy. The system also integrates Google OAuth 2.0 authentication and the Gmail API to securely fetch real-time emails directly from the user’s inbox.
+
+The predictions are displayed through an interactive Streamlit web application, making the system simple, fast, and user-friendly. This project demonstrates the practical use of Artificial Intelligence, Machine Learning, and Cloud APIs in improving email security and reducing spam-related threats.
 
 ---
 
-## ⚙️ Tech Stack  
-- Python 🐍  
-- Scikit-learn 🤖  
-- Pandas  
-- NumPy  
-- NLP (TF-IDF Vectorizer)  
-- Streamlit (UI)  
-- Pickle (Model Saving)
+## ⚙️ Tech Stack
+Python 🐍
+Scikit-learn 🤖
+Pandas
+NumPy
+NLP (TF-IDF Vectorizer)
+Streamlit (UI)
+Pickle (Model Saving)
+Google OAuth 2.0
+Gmail API
 
 ---
 
@@ -40,7 +46,8 @@ Spam_Email Classifier/
 
 ## 🧪 How It Works  
 - Email text is cleaned (NLP preprocessing)  
-- Converted into numerical features using TF-IDF  
+- Converted into numerical features using TF-IDF
+- TF-IDF converts text into weighted feature vectors based on word importance 
 - ML model predicts:  
   - Spam  
   - Not Spam  
@@ -64,11 +71,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📌 Features  
-- Spam detection in real-time  
-- NLP-based text processing  
-- Clean Streamlit UI  
-- Pre-trained ML model  
+## 📌 Features
+Spam detection in real-time
+NLP-based text processing
+Clean Streamlit UI
+Pre-trained Machine Learning model
+Secure Gmail integration using OAuth 2.0 and Gmail API
 
 ## 👩‍💻 Author  
 Diwanshi  
@@ -76,12 +84,14 @@ BTech CSE Student
 Machine Learning Enthusiast 🚀  
 
 
-## ⭐ Future Improvements  
-- Deep Learning (LSTM / Transformers)  
-- Better dataset expansion  
-- Gmail API integration  
-- Cloud deployment  
+## ⭐ Future Improvements
+Deep Learning models (LSTM / BERT / Transformers)
+Better dataset expansion
+Gmail API automation enhancements
+Cloud deployment (Streamlit / AWS / Azure / GCP)
+Advanced phishing & malware detection  
 
 
-## 📜 License  
-This project is open-source and free to use.
+## 📜 License
+This project is developed for academic and learning purposes.
+It is open-source and free to use with proper credit.
