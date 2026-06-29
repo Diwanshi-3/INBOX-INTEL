@@ -75,7 +75,6 @@ Diwanshi
 BTech CSE Student  
 Machine Learning Enthusiast 🚀  
 
----
 
 ## ⭐ Future Improvements  
 - Deep Learning (LSTM / Transformers)  
@@ -83,7 +82,6 @@ Machine Learning Enthusiast 🚀
 - Gmail API integration  
 - Cloud deployment  
 
----
 
 ## 📜 License  
 This project is open-source and free to use.
