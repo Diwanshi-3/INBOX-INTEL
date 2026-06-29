@@ -70,19 +70,20 @@ streamlit run app.py
 - Clean Streamlit UI  
 - Pre-trained ML model  
 
-👩‍💻 Author
+## 👩‍💻 Author  
+Diwanshi  
+BTech CSE Student  
+Machine Learning Enthusiast 🚀  
 
-Diwanshi
-BTech CSE Student
-Machine Learning Enthusiast 🚀
+---
 
-⭐ Future Improvements
+## ⭐ Future Improvements  
+- Deep Learning (LSTM / Transformers)  
+- Better dataset expansion  
+- Gmail API integration  
+- Cloud deployment  
 
-Deep Learning (LSTM / Transformers)
-Better dataset expansion
-Gmail API integration
-Cloud deployment
+---
 
-📜 License
-
+## 📜 License  
 This project is open-source and free to use.
